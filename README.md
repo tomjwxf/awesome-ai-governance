@@ -42,6 +42,8 @@ AI agents are moving from demos to production, but governance hasn't kept up. Th
 - [LiteLLM](https://github.com/BerriAI/litellm) - Unified LLM gateway with spend tracking, rate limiting, guardrails, and access controls across 100+ LLM providers.
 - [Invariant Guardrails](https://github.com/invariantlabs-ai/invariant) - Rule-based guardrails engine for agentic applications with policy-as-code, trace analysis, and real-time intervention.
 
+- [Know Your Agent](https://github.com/RishabhPande/know-your-agent) - Python toolkit for scoped, session-limited Ed25519 agent credentials, narrowing delegation chains, revocation, and signed audit logs.
+
 ## LLM Safety & Guardrails
 
 *Input/output filtering, content safety, and prompt protection for LLM-powered agents.*
